@@ -1,0 +1,14 @@
+Nombre: Juan García
+Visitas:
+Año: 2023
+Causa: CONSULTA
+Año: 2022
+Causa: ENFERMEDAD
+
+Nombre: Jose Morelos
+Visitas:
+Año: 2018
+Causa: ENFERMEDAD
+Año: 2019
+Causa: TRAUMATISMO
+
