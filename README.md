@@ -1,3 +1,3 @@
 # Description PruebaTecnica
-Java 11
-Spring boot
+* Java 11
+* Spring boot
